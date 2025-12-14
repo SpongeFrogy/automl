@@ -1,7 +1,7 @@
 # Regression with a Mohs Hardness Dataset
 
 Учебный проект по курсу «Light AutoML», выполненный на соревновании  
-[Kaggle: Regression with a Mohs Hardness Dataset (Playground Series S3E25)][https://www.kaggle.com/competitions/playground-series-s3e25/overview].
+[Kaggle: Regression with a Mohs Hardness Dataset (Playground Series S3E25)](https://www.kaggle.com/competitions/playground-series-s3e25/overview).
 
 
 ## Выполнил
